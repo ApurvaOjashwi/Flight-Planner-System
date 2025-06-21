@@ -20,6 +20,6 @@ A Python-based flight itinerary planner that models flights as a graph and compu
 
 ## 🗂️ Project Structure
 
-├── flight.py # Flight data model
-├── planner.py # Core logic for flight planning (algorithms to be implemented)
-├── main.py # Sample flight data and test cases
+- flight.py # Flight data model
+- planner.py # Core logic for flight planning (algorithms to be implemented)
+- main.py # Sample flight data and test cases
